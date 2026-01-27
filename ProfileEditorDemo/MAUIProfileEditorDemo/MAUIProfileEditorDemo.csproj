@@ -57,8 +57,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiFont Remove="C:\Users\KarthickMani\.nuget\packages\samplebrowser.maui.base\32.1.24\buildTransitive\..\buildTransitive\Resources\Fonts\MauiSampleFontIcon.ttf" />
-	  <MauiFont Remove="C:\Users\KarthickMani\.nuget\packages\syncfusion.maui.core\32.1.24\buildTransitive\..\buildTransitive\Resources\Fonts\MauiMaterialAssets.ttf" />
+	  <None Remove="Resources\Fonts\MauiMaterialAssets.ttf" />
 	</ItemGroup>
 
 	<ItemGroup>
